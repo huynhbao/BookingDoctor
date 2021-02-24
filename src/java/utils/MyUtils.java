@@ -24,7 +24,7 @@ public class MyUtils {
     public static final String DEFAULT_ACCOUNT_STATUS = "new";
     
     
-    public static final int recordPerPage = 3;
+    public static final int recordPerPage = 30;
     
     
     
